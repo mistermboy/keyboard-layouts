@@ -77,8 +77,8 @@
       "KC_RALT",
       "KC_RGUI",
       "KC_LEFT",
-      "KC_RCTL",
-      "MO(1)"
+      "MO(2)",
+      "KC_RCTL"
     ],
     [
       "KC_GRV",
@@ -110,7 +110,7 @@
       "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS",
-      "RESET",
+      "KC_NO",
       "KC_TRNS",
       "KC_NO",
       "KC_LEFT",
@@ -168,9 +168,9 @@
       "C(KC_V)",
       "C(A(LCA(KC_ESC)))",
       "KC_R",
-      "C(KC_8)",
-      "C(A(LCA(KC_LANG6)))",
-      "C(KC_HELP)",
+      "KC_MUTE",
+      "KC_VOLD",
+      "KC_VOLU",
       "S(undefined)",
       "C(KC_LANG6)",
       "C(S(KC_HELP))",
@@ -228,11 +228,11 @@
       "0x8501",
       "C(A(LCA(KC_B)))",
       "C(LWIN(RCTL(RWIN(KC_D))))",
-      "0x29e0",
-      "C(A(LCA(RCTL(ALGR(KC_RGUI)))))",
+      "KC_VOLD",
+      "KC_VOLU",
       "0x2500",
-      "0x9501",
-      "MT(MOD_LCTL | MOD_LALT | MOD_RCTL | MOD_RALT,KC_E)"
+      "KC_MUTE",
+      "KC_MUTE"
     ],
     [
       "0x8101",
